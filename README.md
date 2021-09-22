@@ -1,5 +1,4 @@
 # Middle Rio Grande Water Balance Model: Reservoir Operation
-<Description here>
 
 ## General Dependencies:  
 + Python > 3
@@ -15,13 +14,16 @@
 + Run batch_reservoir_df.py
 
 ## Contributors
-+ Robyn Holmes
-+ Alex Mayer 
-+ Dave Gutzler
-+ Luis Garnica
++ Robyn Holmes (MTU)
++ Alex Mayer (UTEP)
++ Dave Gutzler (UNM)
++ Luis Garnica (UTEP)
 
 ## Acknowledgements
 This material is based upon work supported by the United States Department of Agriculture under Grant No. 2015-68007-23130. 
 
 ## License
-GNU GENERAL PUBLIC LICENSE
+GNU GENERAL PUBLIC LICENSE 3.0
+
+## Copyright
+Copyright © 2021 Michigan Technological University (USDA Water Sustainability Project)
