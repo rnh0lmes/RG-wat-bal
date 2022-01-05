@@ -11,7 +11,7 @@
 + Activate the virtual environment: >> .\env\Scripts\activate
 + Update pip: >> pip install --upgrade pip (optional)
 + Install required packages: >> pip install -r requirements.txt
-+ Run batch_reservoir_df.py
++ Run reservoir_model_projections.py
 
 ## Contributors
 + Robyn Holmes (MTU)
