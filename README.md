@@ -19,11 +19,25 @@
 + Dave Gutzler (UNM)
 + Luis Garnica (UTEP)
 
+## Documentation
+[https://water.cybershare.utep.edu/resources/docs/en2/models/balancev2/](https://water.cybershare.utep.edu/resources/docs/en2/models/balancev2/)
+
 ## Acknowledgements
-This material is based upon work supported by the United States Department of Agriculture under Grant No. 2015-68007-23130. 
+This work was supported by The Agriculture and Food Research Initiative (AFRI) grant no. 2015-68007-23130 from the USDA National Institute of Food and Agriculture.
+
+This material was based upon work supported by the National Science Foundation (NSF) under Grant No. 1835897.   
+
+Any opinions, findings, and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the National Science Foundation.  
 
 ## License
-GNU GENERAL PUBLIC LICENSE 3.0
+This software code is licensed under the [GNU GENERAL PUBLIC LICENSE v3.0](./LICENSE) and uses third party libraries that are distributed under their own terms (see [LICENSE-3RD-PARTY.md](./LICENSE-3RD-PARTY.md)).
 
+## Citations
+
+Waskom, M. L. (2021). seaborn: Statistical data visualization. Journal of Open Source Software, 6(60), 3021. https://doi.org/10.21105/joss.03021    
+
+Hunter, J. D. (2007). Matplotlib: A 2D graphics environment. Computing in Science & Engineering, 9(3), 90–95. https://doi.org/10.1109/MCSE.2007.55   
+   
 ## Copyright
-Copyright © 2021 Michigan Technological University (USDA Water Sustainability Project)
+Copyright © 2021-2023 University of Texas at El Paso (USDA Water Sustainability Project)   
+Copyright © 2021-2023 Michigan Technological University (USDA Water Sustainability Project)   
