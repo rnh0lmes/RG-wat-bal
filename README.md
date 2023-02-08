@@ -34,7 +34,7 @@ If you create products such as publications using this model, it would be great 
 
 Holmes, R. N., Mayer, A., Gutzler, D. S., & Chavira, L. G. (2022).    
 Assessing the Effects of Climate Change on Middle Rio Grande Surface Water Supplies Using a Simple Water Balance Reservoir Model.    
-Earth Interactions, 1(aop), 1–34. https://doi.org/10.1175/EI-D-21-0025.1   
+Earth Interactions, 1–34. https://doi.org/10.1175/EI-D-21-0025.1   
 
 ## License
 This software code is licensed under the [GNU GENERAL PUBLIC LICENSE v3.0](./LICENSE) and uses third party libraries that are distributed under their own terms (see [LICENSE-3RD-PARTY.md](./LICENSE-3RD-PARTY.md)).
