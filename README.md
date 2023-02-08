@@ -41,9 +41,13 @@ This software code is licensed under the [GNU GENERAL PUBLIC LICENSE v3.0](./LIC
 
 ## Citations
 
-Waskom, M. L. (2021). seaborn: Statistical data visualization. Journal of Open Source Software, 6(60), 3021. https://doi.org/10.21105/joss.03021    
+Waskom, M. L. (2021). seaborn: Statistical data visualization.   
+Journal of Open Source Software, 6(60), 3021.   
+https://doi.org/10.21105/joss.03021       
 
-Hunter, J. D. (2007). Matplotlib: A 2D graphics environment. Computing in Science & Engineering, 9(3), 90–95. https://doi.org/10.1109/MCSE.2007.55   
+Hunter, J. D. (2007). Matplotlib: A 2D graphics environment.    
+Computing in Science & Engineering, 9(3), 90–95.    
+https://doi.org/10.1109/MCSE.2007.55      
    
 ## Copyright
 Copyright © 2021-2023 University of Texas at El Paso (USDA Water Sustainability Project)   
